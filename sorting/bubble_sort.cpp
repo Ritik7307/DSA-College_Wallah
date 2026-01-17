@@ -26,6 +26,9 @@ int main(){
     cout<<endl;
 }
 
+// T.C.  o(n^2)
+// S.C. O(1)
+
 /*
 Stable & Unstable Sort:
 Stable Sort: doesnot disturb the order of elements with same value
