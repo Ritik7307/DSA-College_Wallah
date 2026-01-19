@@ -12,3 +12,7 @@ insertion and deletion is not costly
 
 Listnode: blocks of memory -> node
         Data|Next
+
+Singular Linked List
+Doubly Linked List
+Circular Linked List
