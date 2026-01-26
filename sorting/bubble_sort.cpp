@@ -26,7 +26,7 @@ int main(){
     cout<<endl;
 }
 
-// T.C.  o(n^2)
+// T.C.  O(n^2)
 // S.C. O(1)
 
 /*
