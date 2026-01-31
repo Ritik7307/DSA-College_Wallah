@@ -1,4 +1,5 @@
 // repeatedly swap two adjacent elements if in wrong order.
+// Bubble Sort is stable
 
 #include<bits/stdc++.h>
 using namespace std;
