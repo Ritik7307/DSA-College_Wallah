@@ -6,7 +6,8 @@ int main(){
 
     // string s = "Raghav";
     string str;
-    cin>>str;
+    getline(cin,str);
     cout<<str<<endl;
+
      return 0;
 }
